@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "define.h": "c",
+        "unistd.h": "c"
+    }
+}
