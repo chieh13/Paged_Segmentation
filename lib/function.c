@@ -24,7 +24,6 @@ void MemoryNotes(MemoryManager *mm)
         //  刷新文件缓冲区
         fflush(file);
     }
-    fclose(file);
 }
 
 // 初始化内存管理器
